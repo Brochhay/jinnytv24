@@ -1,0 +1,14 @@
+Share with no thumnail on Facebook.
+Must have www.domain.com in metatage if use domain.com not work
+
+
+
+admin
+1. change permission and owner
+- change owner admin folder to nobody by sudo chown nobody pathtoimge/admin/
+- change db folder to nobody
+- change json folder to nobody and permission all (Public permission)
+- change database.json to nobody and permission all
+image folder
+- change images folder and thumail folder to nobody and all permission
+
